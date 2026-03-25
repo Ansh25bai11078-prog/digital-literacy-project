@@ -1,0 +1,27 @@
+Social Media Checklist 
+
+
+DO'S:
+
+
+Enable Two-Factor Authentication (2FA): Always use an extra layer of security beyond just a password to protect your accounts from unauthorized access.
+
+Review Privacy Settings: Regularly check who can see your posts and personal information on platforms like Instagram and Facebook.
+
+Think Before You Post: Remember that once something is online, it is permanent; ensure your content reflects a professional image for future recruiters.
+
+Verify Information: Always fact-check news or academic information before resharing it to avoid spreading digital misinformation.
+
+Network Professionally: Use platforms like LinkedIn to follow industry leaders and alumni in the AI and Machine Learning field.
+
+DON'TS:
+
+Don't Share Location in Real-Time: Avoid "checking in" or posting your exact current location to protect your physical safety.
+
+Don't Post Sensitive Data: Never share your registration number, home address, or phone number in public posts or stories.
+
+Don't Engage with Trolls: Avoid arguing with anonymous accounts or cyberbullies, as this can escalate and damage your digital reputation.
+
+Don't Use Weak Passwords: Never use easily guessable passwords like "123456" or your name; use a mix of symbols and numbers instead.
+
+Don't Plagiarize Content: Never claim someone else’s code, digital art, or research as your own when sharing on social platforms.
